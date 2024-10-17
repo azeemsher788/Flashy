@@ -17,11 +17,11 @@ Flashy is an interactive flashcard application built using Python and the Tkinte
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/azeemsher788/Flashy.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd 31_flash_cards
+    cd Flashy
     ```
 3. Install the required Python packages:
     ```sh
